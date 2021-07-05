@@ -1,0 +1,7 @@
+D:\source\repos\NTLayerArch\NTLayerArch\bin\NTLayerArch.dll.config
+D:\source\repos\NTLayerArch\NTLayerArch\bin\NTLayerArch.dll
+D:\source\repos\NTLayerArch\NTLayerArch\bin\NTLayerArch.pdb
+D:\source\repos\NTLayerArch\NTLayerArch\obj\Debug\NTLayerArch.csproj.AssemblyReference.cache
+D:\source\repos\NTLayerArch\NTLayerArch\obj\Debug\NTLayerArch.csproj.CoreCompileInputs.cache
+D:\source\repos\NTLayerArch\NTLayerArch\obj\Debug\NTLayerArch.dll
+D:\source\repos\NTLayerArch\NTLayerArch\obj\Debug\NTLayerArch.pdb
